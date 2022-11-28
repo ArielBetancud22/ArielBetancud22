@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://media4.giphy.com/media/KDyxouSEfhOs9i4oru/giphy.gif?cid=ecf05e47jrfl3b8hacr1rbfiskzn2uhkgx15ir9x7w4rx0fn&rid=giphy.gif&ct=g" align="center" style="width: 100%" />
 </div>  
   
 
@@ -69,7 +69,7 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/https://github.com/ArielBetancud22" target="_blank">
+<a href="https://github.com/ArielBetancud22" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/ariel-betancud-45627094" target="_blank">
