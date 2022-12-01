@@ -14,6 +14,10 @@
 
 - ❓ Ask me about Java, Python, Git, Scrum, JavaScript, Node.js and more  
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/105942321/204951891-16133e51-332b-40ed-952b-5bc6e4af15fc.gif" align="center" style="width: 25%" />
+</div>
+<br/>
 
 - I am a professor at UTN FRSR university technical program in programming, I teach in two chairs Programming 2 with the language of Java and Laboratory 2 With the languages of JavaScript and Python
 
@@ -28,7 +32,7 @@
 
 <br/>
 <div align="center">
-<img src="https://user-images.githubusercontent.com/105942321/204950729-a2e0b19d-9133-4ded-a680-62f76d5248e7.gif" align="center" style="width: 100%" />
+<img src="https://user-images.githubusercontent.com/105942321/204950729-a2e0b19d-9133-4ded-a680-62f76d5248e7.gif" align="center" style="width: 50%" />
 </div>
   
 
