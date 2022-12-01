@@ -16,6 +16,20 @@
 
 
 - I am a professor at UTN FRSR university technical program in programming, I teach in two chairs Programming 2 with the language of Java and Laboratory 2 With the languages of JavaScript and Python
+
+<br/>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/105942321/204943463-94cd5ec9-7bb3-47d6-8b56-10122a495753.gif" align="center" style="width: 100%" />
+</div>
+
+
+<br/>
+- I´m from Argentina
+
+<br/>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/105942321/204950729-a2e0b19d-9133-4ded-a680-62f76d5248e7.gif" align="center" style="width: 100%" />
+</div>
   
 
 <br/>  
@@ -24,9 +38,6 @@
 <div align="center"></div>
 <br />
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/105942321/204943463-94cd5ec9-7bb3-47d6-8b56-10122a495753.gif" align="center" style="width: 100%" />
-</div>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
