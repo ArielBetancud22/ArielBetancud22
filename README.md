@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/105942321/204351273-ab309ea0-18f0-4bdb-ba2b-865bbecfee29.gif" align="center" style="width: 100%" />
 </div>  
-  
+
 
 ### <div align="center">I'm Ariel Betancud, a full-time full-stack freelance developer 👨‍💻 working remotely since 2017 🚀</div>  
   
@@ -13,6 +13,9 @@
   
 
 - ❓ Ask me about Java, Python, Git, Scrum, JavaScript, Node.js and more  
+
+
+- I am a professor at UTN FRSR university technical program in programming, I teach in two chairs Programming 2 with the language of Java and Laboratory 2 With the languages of JavaScript and Python
   
 
 <br/>  
@@ -20,6 +23,10 @@
 
 <div align="center"></div>
 <br />
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/105942321/204943463-94cd5ec9-7bb3-47d6-8b56-10122a495753.gif" align="center" style="width: 100%" />
+</div>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
