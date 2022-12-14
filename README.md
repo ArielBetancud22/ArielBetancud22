@@ -18,6 +18,10 @@
 <img src="https://user-images.githubusercontent.com/105942321/204951891-16133e51-332b-40ed-952b-5bc6e4af15fc.gif" align="center" style="width: 25%" />
 </div>
 <br/>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/111775575/200439830-ca7aaeb5-103d-4a77-95c1-299cf915e38a.gif" align="center" style="width: 50%" />
+</div>
+<br/>
 
 - I am a professor at UTN FRSR university technical program in programming, I teach in two chairs Programming 2 with the language of Java and Laboratory 2 With the languages of JavaScript and Python
 
