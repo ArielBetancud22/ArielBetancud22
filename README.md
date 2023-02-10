@@ -33,7 +33,9 @@
 
 <br/>
 <div align="center">
-<img src="https://user-images.githubusercontent.com/105942321/204943463-94cd5ec9-7bb3-47d6-8b56-10122a495753.gif" align="center" style="width: 100%" />
+<strong><br>Here I present the first project: Matrix = https://arielbetancud22.github.io/JavaScriptPro/</br><br>
+Here I present the second project: Bola de luces = https://codesystem2022.github.io/DevelopJunior/ </br><br>
+Here I present the third project: Bomba = https://arielbetancud22.github.io/ProyectoPruebajs/ </br>
 </div>
 
 
