@@ -1,4 +1,4 @@
-### <div align="center">ESTAMOS DE VACACIONES, FALTA POCO PARA COMENZAR 2023</div>
+### <div align="center">COMENZAMOS EL 2023, ES HORA DE ESTUDIAR Y PRACTICAR</div>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/105942321/204351273-ab309ea0-18f0-4bdb-ba2b-865bbecfee29.gif" align="center" style="width: 100%" />
