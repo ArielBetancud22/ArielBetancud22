@@ -28,7 +28,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=arielbetancud22&label=Profile%20views&color=0e75b6&style=flat" alt="arielbetancud22" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arielbetancud22" alt="arielbetancud22" /></a> </p>
+![](https://github-profile-trophy.vercel.app/?username=ArielBetancud22&theme=juicyfresh&no-frame=false&no-ma&row=2&column=3&margin-w=15&margin-h=15)
+
 
 
 
