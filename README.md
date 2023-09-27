@@ -28,7 +28,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=arielbetancud22&label=Profile%20views&color=0e75b6&style=flat" alt="arielbetancud22" /> </p>
 
-![](https://github-profile-trophy.vercel.app/?username=ArielBetancud22&theme=juicyfresh&no-frame=false&no-ma&row=2&column=3&margin-w=15&margin-h=15)
+![](https://github-profile-trophy.vercel.app/?username=ArielBetancud22&theme=juicyfresh&no-frame=false&no-ma&row=2&column=3&margin-w=270&margin-h=70)
 
 
 
