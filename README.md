@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [Repository](https://github.com/ArielBetancud22?tab=repositories)
 
-- 📝 I regularly write articles on [Estoy trabajando en el](Estoy trabajando en el)
+- 📝 I regularly write articles on [Linkedin](https://www.linkedin.com/in/ariel-betancud-45627094)
 
 - 💬 Ask me about **Python, Java, JavaScript, Node, Windows, Linux, MySQL, PostgreSQL, MongoDB, Docker, React, Terminal, Postman and more**
 
