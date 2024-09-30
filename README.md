@@ -4,8 +4,10 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/105942321/204351273-ab309ea0-18f0-4bdb-ba2b-865bbecfee29.gif" align="center" style="width: 100%" />
 </div>  
- 
-
+ </br>
+Bienvenido/a a mi portafolio de proyectos. Soy un desarrollador web con experiencia en el desarrollo de aplicaciones web y móviles. Poseo varias organizaciones en GitHub con un amplio trabajo de equipo con metodologías agiles como el Marco Scrum.
+</br>
+</br>
 - 🔭 I’m currently working on [organización CodeSystem2022](https://github.com/CodeSystem2022)
 
 - 🌱 I’m currently learning **Metodologías agiles y lenguajes de programación**
@@ -33,7 +35,7 @@
 
 
 
-- I am a professor at UTN FRSR university technical program in programming, I teach in two chairs Programming 2 with the language of Java and Laboratory 2 With the languages of JavaScript and Python
+- I am a professor at UTN FRSR university technical program in programming, I teach in two chairs Programming 2 with the language of Java and Laboratory 2 With the languages of JavaScript and Python.
 
 <br/>
 <div align="center">
