@@ -1,5 +1,5 @@
-<h1 align="center">Hola 👋, soy Ariel Betancud</h1>
-<h3 align="center">Soy profesor y programador en la UTNFRSR</h3>
+<h1 align="center">Hola 👋, soy Freelance Full-Stack Dev</h1>
+<h3 align="center">Profesor Universitario con amplia experiencia en redes como YouTube, utilizando también Zoom. Coordinador de Auxiliares Docentes y Tutores.</h3>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/105942321/204351273-ab309ea0-18f0-4bdb-ba2b-865bbecfee29.gif" align="center" style="width: 100%" />
