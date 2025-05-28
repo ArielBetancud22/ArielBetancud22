@@ -3,7 +3,7 @@
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/105942321/204351273-ab309ea0-18f0-4bdb-ba2b-865bbecfee29.gif" align="center" style="width: 100%" />
-</div>  
+</div>  <br>
 
 Bienvenido/a a mi portafolio de proyectos. Soy un desarrollador web con experiencia en el desarrollo de aplicaciones web y móviles. Poseo varias organizaciones en GitHub con un amplio trabajo de equipo con metodologías agiles como el Marco Scrum.<br>
 
@@ -40,7 +40,7 @@ Bienvenido/a a mi portafolio de proyectos. Soy un desarrollador web con experien
 <div align="center">
 <strong>
  
-Here I present the first project: [Matrix](https://arielbetancud22.github.io/JavaScriptPro/)
+Here I present the first project: [Matrix](https://arielbetancud22.github.io/JavaScriptPro/) <br>
 Here I present the second project: [Bola de luces](https://codesystem2022.github.io/DevelopJunior/)
  <br>
   Interact with the screen
