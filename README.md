@@ -4,11 +4,11 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/105942321/204351273-ab309ea0-18f0-4bdb-ba2b-865bbecfee29.gif" align="center" style="width: 100%" />
 </div>  
- </br>
-Bienvenido/a a mi portafolio de proyectos. Soy un desarrollador web con experiencia en el desarrollo de aplicaciones web y móviles. Poseo varias organizaciones en GitHub con un amplio trabajo de equipo con metodologías agiles como el Marco Scrum.
-</br>
-</br>
-- 🔭 I’m currently working on [organización CodeSystem2022](https://github.com/CodeSystem2022)
+
+Bienvenido/a a mi portafolio de proyectos. Soy un desarrollador web con experiencia en el desarrollo de aplicaciones web y móviles. Poseo varias organizaciones en GitHub con un amplio trabajo de equipo con metodologías agiles como el Marco Scrum.<br>
+
+
+- 🔭 I’m currently working on organización [CodeSystem2022](https://github.com/CodeSystem2022)
 
 - 🌱 I’m currently learning **Metodologías agiles y lenguajes de programación**
 
@@ -37,32 +37,30 @@ Bienvenido/a a mi portafolio de proyectos. Soy un desarrollador web con experien
 
 - I am a professor at UTN FRSR university technical program in programming, I teach in two chairs Programming 2 with the language of Java and Laboratory 2 With the languages of JavaScript and Python.
 
-<br/>
 <div align="center">
-<strong><br>Here I present the first project: Matrix = https://arielbetancud22.github.io/JavaScriptPro/</br><br>
-Here I present the second project: Bola de luces = https://codesystem2022.github.io/DevelopJunior/ </br><br>
+<strong>
+ 
+Here I present the first project: [Matrix](https://arielbetancud22.github.io/JavaScriptPro/)
+Here I present the second project: [Bola de luces](https://codesystem2022.github.io/DevelopJunior/)
  <br>
-  Interact with the screen</br>
-Here I present the third project: Bomba = https://arielbetancud22.github.io/ProyectoPruebajs/ </br>
+  Interact with the screen
+Here I present the third project: [Bomba](https://arielbetancud22.github.io/ProyectoPruebajs/)
 <br>
-Here I present the fourth project: Particulas = https://arielbetancud22.github.io/Particulas/
+Here I present the fourth project: [Particulas](https://arielbetancud22.github.io/Particulas/)
 </div>
 
 
-<br/>
+
 - I´m from Argentina
 
-<br/>
+
 <div align="center">
 <img src="https://user-images.githubusercontent.com/105942321/204950729-a2e0b19d-9133-4ded-a680-62f76d5248e7.gif" align="center" style="width: 50%" />
 </div>
   
 
-<br/>  
-<br/>  
-
 <div align="center"></div>
-<br />
+
 
 
 <h3 align="center">Languages and Tools:</h3>
@@ -86,26 +84,19 @@ Here I present the fourth project: Particulas = https://arielbetancud22.github.i
 <a href="https://www.youtube.com/@arielbetancud" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
-</div>  
-  
-
-<br/>  
+</div>    
 
  
 
 
 ## Recent Blog Posts  
-  
-
-<br/>  
+    
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=314dfur72wczcgpzst4ysy6i4ndy&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>  
-
-<br/>  
+ 
 
  
 
 <div align="center"></div>
-<br />
 
 ----
