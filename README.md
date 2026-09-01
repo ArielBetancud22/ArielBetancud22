@@ -8,7 +8,7 @@
 Bienvenido/a a mi portafolio de proyectos. Soy un desarrollador web con experiencia en el desarrollo de aplicaciones web y móviles. Poseo varias organizaciones en GitHub con un amplio trabajo de equipo con metodologías agiles como el Marco Scrum.<br>
 
 
-- 🔭 I’m currently working on organización [CodeSystem2026](https://github.com/CodeFire2026)
+- 🔭 I’m currently working on organización [CodeFire2026](https://github.com/CodeFire2026)
 
 - 🌱 I’m currently learning **Metodologías agiles y lenguajes de programación**
 
@@ -43,7 +43,6 @@ Bienvenido/a a mi portafolio de proyectos. Soy un desarrollador web con experien
 Here I present the first project: [Cohorte 2022](https://github.com/CodeSystem2022) <br>
 Here I present the second project: [Cohorte 2023](https://github.com/CodeStrong2023)
  <br>
-  Interact with the screen
 Here I present the third project: [Cohorte 2024](https://github.com/PowerSystem2024)
 <br>
 Here I present the fourth project: [Cohorte 2025](https://github.com/HotCode2025)
