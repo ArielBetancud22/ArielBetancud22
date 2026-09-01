@@ -8,7 +8,7 @@
 Bienvenido/a a mi portafolio de proyectos. Soy un desarrollador web con experiencia en el desarrollo de aplicaciones web y móviles. Poseo varias organizaciones en GitHub con un amplio trabajo de equipo con metodologías agiles como el Marco Scrum.<br>
 
 
-- 🔭 I’m currently working on organización [CodeSystem2022](https://github.com/CodeSystem2022)
+- 🔭 I’m currently working on organización [CodeSystem2026](https://github.com/CodeFire2026)
 
 - 🌱 I’m currently learning **Metodologías agiles y lenguajes de programación**
 
@@ -24,9 +24,9 @@ Bienvenido/a a mi portafolio de proyectos. Soy un desarrollador web con experien
 
 - 📫 How to reach me **abetancud@frsr.utn.edu.ar**
 
-- 📄 Know about my experiences [Pronto estará disponible](Pronto estará disponible)
+- 📄 Know about my experiences [Enseñanza en Facultad UTNFRSR](https://www.frsr.utn.edu.ar/)
 
-- ⚡ Fun fact **Soy muy apasionado por mi trabajo**
+- ⚡ Fun fact **I love my job**
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=arielbetancud22&label=Profile%20views&color=0e75b6&style=flat" alt="arielbetancud22" /> </p>
 
@@ -40,13 +40,15 @@ Bienvenido/a a mi portafolio de proyectos. Soy un desarrollador web con experien
 <div align="center">
 <strong>
  
-Here I present the first project: [Matrix](https://arielbetancud22.github.io/JavaScriptPro/) <br>
-Here I present the second project: [Bola de luces](https://codesystem2022.github.io/DevelopJunior/)
+Here I present the first project: [Cohorte 2022](https://github.com/CodeSystem2022) <br>
+Here I present the second project: [Cohorte 2023](https://github.com/CodeStrong2023)
  <br>
   Interact with the screen
-Here I present the third project: [Bomba](https://arielbetancud22.github.io/ProyectoPruebajs/)
+Here I present the third project: [Cohorte 2024](https://github.com/PowerSystem2024)
 <br>
-Here I present the fourth project: [Particulas](https://arielbetancud22.github.io/Particulas/)
+Here I present the fourth project: [Cohorte 2025](https://github.com/HotCode2025)
+<br>
+Here I present the fourth project: [Cohorte 2026](https://github.com/CodeFire2026)
 </div>
 
 
